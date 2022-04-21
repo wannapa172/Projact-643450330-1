@@ -1,0 +1,11 @@
+C:\Users\wanna\OneDrive\เอกสาร\GitHub\Quiz-Assingnment\Project-643450330-1-\Project-643450330-1-\bin\Debug\Project-643450330-1-.exe.config
+C:\Users\wanna\OneDrive\เอกสาร\GitHub\Quiz-Assingnment\Project-643450330-1-\Project-643450330-1-\bin\Debug\Project-643450330-1-.exe
+C:\Users\wanna\OneDrive\เอกสาร\GitHub\Quiz-Assingnment\Project-643450330-1-\Project-643450330-1-\bin\Debug\Project-643450330-1-.pdb
+C:\Users\wanna\OneDrive\เอกสาร\GitHub\Quiz-Assingnment\Project-643450330-1-\Project-643450330-1-\obj\Debug\Project-643450330-1-.csproj.AssemblyReference.cache
+C:\Users\wanna\OneDrive\เอกสาร\GitHub\Quiz-Assingnment\Project-643450330-1-\Project-643450330-1-\obj\Debug\Project-643450330-1-.csproj.SuggestedBindingRedirects.cache
+C:\Users\wanna\OneDrive\เอกสาร\GitHub\Quiz-Assingnment\Project-643450330-1-\Project-643450330-1-\obj\Debug\Project_643450330_1_.Form1.resources
+C:\Users\wanna\OneDrive\เอกสาร\GitHub\Quiz-Assingnment\Project-643450330-1-\Project-643450330-1-\obj\Debug\Project_643450330_1_.Properties.Resources.resources
+C:\Users\wanna\OneDrive\เอกสาร\GitHub\Quiz-Assingnment\Project-643450330-1-\Project-643450330-1-\obj\Debug\Project-643450330-1-.csproj.GenerateResource.cache
+C:\Users\wanna\OneDrive\เอกสาร\GitHub\Quiz-Assingnment\Project-643450330-1-\Project-643450330-1-\obj\Debug\Project-643450330-1-.csproj.CoreCompileInputs.cache
+C:\Users\wanna\OneDrive\เอกสาร\GitHub\Quiz-Assingnment\Project-643450330-1-\Project-643450330-1-\obj\Debug\Project-643450330-1-.exe
+C:\Users\wanna\OneDrive\เอกสาร\GitHub\Quiz-Assingnment\Project-643450330-1-\Project-643450330-1-\obj\Debug\Project-643450330-1-.pdb
